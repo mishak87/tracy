@@ -225,4 +225,4 @@ The result looks like this:
 
 -----
 
-[![Build Status](https://secure.travis-ci.org/nette/tracy.png?branch=master)](http://travis-ci.org/nette/tracy)
+[![Build Status](https://secure.travis-ci.org/nette/tracy.png?branch=v2.2)](http://travis-ci.org/nette/tracy)
